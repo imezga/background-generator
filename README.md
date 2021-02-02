@@ -1,2 +1,2 @@
 # background-generator
-# Just for git testing
+Just for git testing
